@@ -37,6 +37,14 @@
     border-radius: 5px;
     cursor: pointer;
 }
+.nav__button{
+    background: #ffc107;
+    border: none;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 5px;
+    padding: 18px 36px;
+}
     .iconify{
         display: flex;
         cursor: pointer;
